@@ -1,5 +1,3 @@
-Here's a complete **README.md** in GitHub Markdown format with all the details about your interactive portfolio/resume project:
-
 ```markdown
 # Latif Khan - Interactive Web Portfolio
 
